@@ -1,0 +1,4 @@
+#compdef cxflow
+
+_arguments "1: :(train resume predict split gridsearch)"\
+           "*: : _files"
