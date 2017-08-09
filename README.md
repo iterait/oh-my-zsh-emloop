@@ -1,4 +1,10 @@
 # oh-my-zsh-cxflow
+[![CircleCI](https://circleci.com/gh/Cognexa/cxflow/tree/master.svg?style=shield)](https://circleci.com/gh/Cognexa/cxflow/tree/master)
+[![Development Status](https://img.shields.io/badge/status-CX%20Experimental-yellow.svg?style=flat)]()
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![Master Developer](https://img.shields.io/badge/master-Petr%20Bělohlávek-lightgrey.svg?style=flat)]()
+
+
 Oh My ZSH cxflow plugin
 
 Copy the `cxflow` folder to the your custom `plugins` directory.
