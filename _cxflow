@@ -1,4 +1,4 @@
 #compdef cxflow
 
-_arguments "1: :(train resume predict dataset gridsearch)"\
+_arguments "1: :(train resume predict eval dataset gridsearch ls prune)"\
            "*: : _files"
